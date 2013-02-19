@@ -1,0 +1,1 @@
+alias dfs='hadoop dfs'
